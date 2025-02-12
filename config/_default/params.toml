@@ -66,7 +66,7 @@ keywords = ["Boilerplate", "Hugo"]
 description = "Hugo & Tailwindcss Starter"
 author = "ade"
 twitter = "zeon_studio"
-image = "images/forestry1.jpeg"
+image = "images/og-image.png"
 
 
 # site verifications
