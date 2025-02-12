@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "ORCID",
+      "icon": "fab fa-orcid",
+      "link": "https://orcid.org/0000-0002-7908-0431"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/adelaide2108/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/adelaide-sander-65a894196/"
+    }
+  ]
+}
