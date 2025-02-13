@@ -28,7 +28,7 @@ features:
 
   - title: "Please fill out my survey"
     image: "/images/logo_work.png"
-    content: "If you live in Scotland and are interested in restoration, or own land, please fill out his survey. <br><br> I developed this survey to get insights on local residents thoughts, concerns and management practices regarding nature restoration. <br><br> Thank you very much! "
+    content: "If you live in Scotland, please fill out his survey. <br><br> I developed this survey to get insights on local residents thoughts, concerns and management practices regarding nature restoration. <br><br> Thank you very much for your help! "
     bulletpoints:
       - "Based on a well established psychological theory: The Theory of Planed Behaviour developed by Isaak Aizen in 1985."
       - "The survey will not take longer than 20 minutes"
