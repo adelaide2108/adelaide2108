@@ -14,8 +14,8 @@ banner:
 # Features
 features:
   - title: "Project description"
-    image: "/images/tree1.jpg"
-    content: "My research explores the behavioral drivers of decision-making in Scotland’s restoration management of different stakeholders.<br><br> Using the Theory of Planned Behaviour, agent-based modeling, and network analysis, I examine how attitudes, social norms, and stakeholder dynamics shape sustainable restoration. <br><br>  By engaging communities, fostering partnerships, and ensuring knowledge accessibility, I aim to bridge science and practice—promoting both ecological recovery and social equity"
+    image: "/images/diagram.png"
+    content: "My research explores the behavioral drivers of decision-making in Scotland’s restoration management of different stakeholders.<br><br> Using the Theory of Planned Behaviour, agent-based modeling, and network analysis, I examine how attitudes, social norms, controls and stakeholder dynamics shape sustainable restoration. <br><br>  By engaging communities, fostering partnerships, and ensuring knowledge accessibility, I aim to bridge science and practice—promoting both ecological recovery and social equity"
     bulletpoints:
       - "Modelling."
       - "Survey data."
@@ -28,7 +28,7 @@ features:
 
   - title: "Please fill out my survey on nature restoration"
     image: "/images/logo_work.png"
-    content: "If you live in Scotland, please fill out his survey. <br><br> This survey was developed to get insights on local residents thoughts, concerns and management practices regarding nature restoration. Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. <br><br> Thank you very much for your help! "
+    content: "If you live in Scotland, I would be very greatfull if you could fill out my survey. <br><br> This survey was developed to get insights on local residents thoughts, concerns and management practices regarding nature restoration. Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. <br><br> Thank you very much for your help! "
     bulletpoints:
       - "Based on a well established psychological theory: The Theory of Planed Behaviour developed by Isaak Aizen in 1985."
       - "The survey will not take longer than 20 minutes"

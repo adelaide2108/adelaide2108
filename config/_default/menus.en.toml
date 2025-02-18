@@ -11,6 +11,19 @@ name = "About me"
 url = "/about"
 weight = 2
 
+[[main]]
+parent = "About me"
+name = "My Research"
+url = "/about/about_me"
+weight = 1
+
+[[main]]
+parent = "About me"
+name = "CV"
+url = "/about/cv"
+Weight = 2
+
+
 
 [[main]]
 weight = 3
