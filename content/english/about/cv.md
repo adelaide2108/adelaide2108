@@ -24,8 +24,8 @@ layout: "cv_layout"
   During my work with FAO’s AQUASTAT team, I focused on data analysis and reporting related to global water use and the Sustainable Development Goal 6 (SDG 6) indicators on Water Use Efficiency and Water Stress, visit [AQUASTAT](https://www.fao.org/aquastat/en/), FAO’s global water information system.
     Key tasks included:
     - **Data Analysis:** Analyzing global water use data, with a particular focus on the SDG 6 sub-indicators.  
-    - **Data Validation:** Validating data collected through country questionnaires, working closely with national focal points to ensure accuracy.
-    - **Reporting & Capacity Building:** Contributing to several **country water profiles**, a **report on water and climate change**, and developing **training materials** to support capacity building efforts.
+    - **Data Validation:** Building an automation to validate data collected through country questionnaires, working closely with national focal points to ensure accuracy.
+    - **Reporting & Capacity Building:** Contributing to several country water profiles, a report on water and climate change, and developing training materials to support capacity building efforts.
 
 <hr>
 
