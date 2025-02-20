@@ -3,19 +3,19 @@
 banner:
   
   title: "Restoring Ecosystems through understanding decisions"
-  content: "In my project I am developing an agent based model grounded in psychological theory to explore decision-making in nature restoration in Scotland."
+  content: "In this project, I am developing an agent-based model, grounded in psychological theory, to explore how decisions about nature restoration are made in Scotland. <br><br> This work serves as a bridge between practitioners and policymakers. My goal is to communicate the underlying reasons behind decisions to restore —or not restore— land in Scotland. The voices of practitioners are at the heart of this project; your experiences and insights are what matter most to me. "
   image: "/images/scotland1_long.png"  
   button:
-     enable: false
-     label: "Get Started Now"
-     link: ""
+     enable: true
+     label: "Decision survey"
+     link: "https://ww2.unipark.de/uc/scotland/"
 
 
 # Features
 features:
   - title: "Project description"
     image: "/images/diagram.png"
-    content: "My research explores the behavioral drivers of decision-making in Scotland’s restoration management of different stakeholders.<br><br> Using the Theory of Planned Behaviour, agent-based modeling, and network analysis, I examine how attitudes, social norms, controls and stakeholder dynamics shape sustainable restoration. <br><br>  By engaging communities, fostering partnerships, and ensuring knowledge accessibility, I aim to bridge science and practice—promoting both ecological recovery and social equity"
+    content: "My research explores the reasons behind decision-making in Scotland’s restoration management of different stakeholders.<br><br> ***Agent-based modelling*** is a computer-based approach that simulates how individuals or groups behave and interact, helping us understand how their choices shape larger systems. <br><br>  By engaging communities, fostering partnerships, and ensuring knowledge accessibility, I aim to bridge practice and policy —promoting both ecological recovery and social equity"
     bulletpoints:
       - "Modelling."
       - "Survey data."
