@@ -26,14 +26,15 @@ features:
       label: ""
       link: ""
 
-  - title: "Please fill out my survey on nature restoration"
+  - title: "Share Your Voice – Help Shape the Future of Nature Restoration"
     image: "/images/logo_work.png"
-    content: "If you live in Scotland, I would be very greatfull if you could fill out my survey. <br><br> This survey was developed to get insights on local residents thoughts, concerns and management practices regarding nature restoration. Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. <br><br> Thank you very much for your help! "
+    content: "If you live in Scotland, I would be incredibly grateful if you could take a few minutes to fill out my survey. <br><br> Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. hank you for your time and valuable contribution! <br><br> **Why Participate?**"
     bulletpoints:
-      - "Based on a well established psychological theory: The Theory of Planed Behaviour developed by Isaak Aizen in 1985."
-      - "The survey will not take longer than 20 minutes"
+      - "***Inform policy and funding decisisons*** so they better reflect real-life challenges."
+      - "***Identify gaps in support and resources*** for those working in land and nature restoration."
+      - "***Facilitate knowledge-sharing*** between policymakers, practioners and local stakeholders."
+      - "It will not take longer than 20 minutes"
       - "Full data privacy ensured."
-      - "If requested, I will send you the results."
     button:
       enable: true
       label: "Get Started with the survey now!"
@@ -41,7 +42,7 @@ features:
 
   - title: "Who am I?"
     image: "/images/me_warm.jpg"
-    content: "My name is Adelaide Sander, and I am an environmental scientist from ETH Zurich, currently pursuing a PhD in environmental decision-making. I am part of the Ecosystem Management group led by Professor Jaboury Ghazoul, where our research explores the intersections of ecology, sociology, and policy. My key interests include:"
+    content: "My name is Adelaide Sander, and I am an environmental scientist from ETH Zurich, currently pursuing a PhD in environmental decision-making. I am part of the Ecosystem Management group led by Professor Jaboury Ghazoul, where our research explores the intersections of ecology, sociology, and policy. My second supervisor is Calum Brown who is based in Scotland and works at the Karlsruhe Institute of Technology researching processes that cause change in land management and ecosystems.  <br><br> My key interests include:"
     bulletpoints:
       - "Nature and human-nature connections."
       - "Human behaviour."
