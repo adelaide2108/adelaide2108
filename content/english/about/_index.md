@@ -7,7 +7,7 @@ draft: false
 ---
 
 I am an environmental scientist from ETH Zurich,  pursuing a PhD about on landscape-level decision-making. My research explores the motivations behind nature restoration—why individuals choose to restore their land and what drives communities to collaborate on restoration efforts. <br><br>
-In my free time I love to be outside and spend time with my horse in the woods.
+In my free time I love to be outside and spend time with my horse in the woods. I am also a passionate gardener.
 
 <hr>
 
