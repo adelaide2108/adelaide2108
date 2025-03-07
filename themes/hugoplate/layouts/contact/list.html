@@ -1,6 +1,15 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
 
+  <div class="row justify-center">
+    <div class="lg:col-7 md:col-9 mb-8 text-center">
+    <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
+      {{ .Content }}
+    </p>
+  </div>
+  
+  <div class="container">
+
 
   <section class="section-sm">
     <div class="container">
