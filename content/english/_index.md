@@ -28,7 +28,7 @@ features:
 
   - title: "Share Your Voice – Help Shape the Future of Nature Restoration"
     image: "/images/logo_work.png"
-    content: "If you live in Scotland, I would be incredibly grateful if you could take a few minutes to fill out my survey. <br><br> Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. hank you for your time and valuable contribution! <br><br> **Why Participate?**"
+    content: "If you live in Scotland, I would be incredibly grateful if you could take a few minutes to fill out my survey. <br><br> Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. Thank you for your time and valuable contribution! <br><br> **Why Participate?**"
     bulletpoints:
       - "***Inform policy and funding decisisons*** so they better reflect real-life challenges."
       - "***Identify gaps in support and resources*** for those working in land and nature restoration."
