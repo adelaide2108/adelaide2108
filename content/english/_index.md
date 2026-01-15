@@ -5,10 +5,6 @@ banner:
   title: "Restoring Ecosystems through understanding decisions"
   content: "My work serves as a bridge between practitioners and policymakers. The goal is to communicate the underlying reasons behind decisions to restore —or not restore— land in Scotland. The voices of practitioners are at the heart of this project; your experiences and insights are what matter most to me. "
   image: "/images/scotland1_long.png"  
-  button:
-     enable: true
-     label: "Decision survey"
-     link: "https://ww2.unipark.de/uc/scotland/"
 
 
 # Features
@@ -26,19 +22,6 @@ features:
       label: ""
       link: ""
 
-  - title: "Share Your Voice – Help Shape the Future of Nature Restoration"
-    image: "/images/logo_work.png"
-    content: "If you live in Scotland, I would be incredibly grateful if you could take a few minutes to fill out my survey. <br><br> Whether you own land, manage it, work with a community group—or even if none of that applies to you—it doesn’t matter. I am very interested in your thoughts. Thank you for your time and valuable contribution! <br><br> **Why Participate?**"
-    bulletpoints:
-      - "***Inform policy and funding decisisons*** so they better reflect real-life challenges."
-      - "***Identify gaps in support and resources*** for those working in land and nature restoration."
-      - "***Facilitate knowledge-sharing*** between policymakers, practioners and local stakeholders."
-      - "It will not take longer than 20 minutes"
-      - "Full data privacy ensured."
-    button:
-      enable: true
-      label: "Get Started with the survey now!"
-      link: "https://ww2.unipark.de/uc/scotland/"
 
   - title: "Who am I?"
     image: "/images/me_warm.jpg"
